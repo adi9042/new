@@ -1,1 +1,17 @@
 hiiii Sara 
+good!
+
+[A[A[C[C[C[C[C[
+
+
+
+$ cat file
+[A[C[C[C[C[C[C[C[C[C[C[C[[A[A[A[C[A[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C
+good
+
+[A[B[A[A[C[C[A[C[C[C[C[C[C[C[C[C[C[$ ls
+[A[C[C[Cls
+[A[A[A[C[C[B[B[C[C
+[A[C[C
+[A[A[B[B[B[B[[A[A[A[A[A[A[A[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+$ls
